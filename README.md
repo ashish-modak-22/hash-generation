@@ -78,4 +78,4 @@ These files have different contents.
 - No external dependencies (uses only the standard `hashlib` library)
 ## 📄 License
  
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](License).
